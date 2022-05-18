@@ -34,12 +34,13 @@ misma.
 
 **4.4.-MATERIAL REQUERIDO**
 
-![]()
+![](https://github.com/smvaca2/InformeLaboratorio/blob/23833b1b462a014f4aff291caff324bb6c6f4637/4.4.PNG)
 
 **4.5-PROCEDIMIENTO**
+
 *4.5.1.-Arme el circuito que se muestra en la figura *
 
-![]()
+![](https://github.com/smvaca2/InformeLaboratorio/blob/23833b1b462a014f4aff291caff324bb6c6f4637/4.5.1.PNG)
 
 *4.5.2.-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.**
