@@ -1,7 +1,15 @@
 # InformeLaboratorio
 
-<span style="color:blue">***1.-OBJETIVOS***</span>}
+***1.-OBJETIVOS***
 
-\***1.-OBJETIVOS***\`\`json
+***2.-MARCO TEÓRICO***
 
-<span style="color:blue">***2.-MARCO TEORÍCO***</span>
+***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
+
+***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
+
+***5.-VIDEO***
+
+***6.-CONCLUSIONES***
+
+***7.-BIBLIOGRAFÍA***
