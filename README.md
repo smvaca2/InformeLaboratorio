@@ -4,6 +4,8 @@
 
 ***2.-MARCO TEÓRICO***
 
+![](https://github.com/smvaca2/InformeLaboratorio/blob/eaa1688060b63fdf2ffff21a7312b1f958c2b087/LDK1.PNG)
+
 ***3.-EXPLICACIÓN DEL PROCEDIMIENTO***
 
 ***4.-RESPUESTA A INTERROGANTES Y CALCULO DE ERROR***
