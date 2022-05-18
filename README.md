@@ -2,7 +2,7 @@
 
 <span style="color:blue">***1.-OBJETIVOS***</span>}
 
-::selection {***1.-OBJETIVOS***
+:***1.-OBJETIVOS***:selection {
 	background-color: #dd2020;
 	color: #fff;
 }
