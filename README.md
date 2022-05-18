@@ -1,3 +1,3 @@
 # InformeLaboratorio
 
-<span style="color: red"> ***1.-OBJETIVOS*** </span> 
+<font color="green"> ***1.-OBJETIVOS*** </font>
