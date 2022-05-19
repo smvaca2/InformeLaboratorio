@@ -1,6 +1,13 @@
 # InformeLaboratorio
 
 ***1.-OBJETIVOS***
+I)Conocer la aplicación la ley de voltaje de Kirchhoff 
+
+II)Aprender a usar los sistemas de lectura de voltaje mediante un multímetro, aplicando los conocimientos adquiridos.
+
+**OBJETIVO ESPECÍFICO**
+
+I)Determinar el voltaje, mediante simuladores en línea y la información del libro dictado por el docente.
 
 ***2.-MARCO TEÓRICO***
 
@@ -76,5 +83,8 @@ Calcular errores de las mediciones y comentar los resultados.
 ***5.-VIDEO***
 
 ***6.-CONCLUSIONES***
+
+Mediante la realización del informe se pudo conocer la ley de voltaje de Kirchhoff para de manera correcta usar los instrumentos de electricidad y electrónica. 
+Se pudo leer las medidas del voltaje y cómo usar distintos elementos mediante el simulador y conocer que son caídas de voltaje.
 
 ***7.-BIBLIOGRAFÍA***
