@@ -89,3 +89,9 @@ Mediante la realización del informe se pudo conocer la ley de voltaje de Kirchh
 Se pudo leer las medidas del voltaje y cómo usar distintos elementos mediante el simulador y conocer que son caídas de voltaje.
 
 ***7.-BIBLIOGRAFÍA***
+
+_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
+
+_Carlos, M. J., Vázquez, C., Gil, J. M., Miguel, F., Ramírez, P., Mayverena, M. I., ... & Morales, J. Leyes de Kirchhoff. 
+
+_Laboratorio de Física, I. I., & Skigin, D. Ley de Ohm y de Kirchhoff.
