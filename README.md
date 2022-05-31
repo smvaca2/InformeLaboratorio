@@ -61,11 +61,12 @@ misma.
 *4.5.2.-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.**
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/2da7e94665a30ce4ded8e18fea6c993623b0b165/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM.jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/f5e2af5c3058c99de0478a6d5be46b9d5eb0d8ef/WhatsApp%20Image%202022-05-30%20at%2011.20.59%20PM.jpeg)
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/1ca98c11c05dbbf21a855fe3821b6e2f0325db56/WhatsApp%20Image%202022-05-30%20at%202.40.58%20PM.jpeg)
+
+![](https://github.com/smvaca2/InformeLaboratorio/blob/2da7e94665a30ce4ded8e18fea6c993623b0b165/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM.jpeg)
 
 *4.5.3.-Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
@@ -73,7 +74,7 @@ signo negativo. Anote los resultados en la tabla 1.2.*
 
 Tabla 1.2. Verificación de la LVK.
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/ebe1d78ec9ae3bb1322fa5d14d666324503fc82e/WhatsApp%20Image%202022-05-30%20at%209.01.06%20PM.jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/1ca98c11c05dbbf21a855fe3821b6e2f0325db56/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM%20(1).jpeg)
 
 *4.5.4.-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
@@ -81,7 +82,8 @@ del nodo. Anote los resultados en la tabla 1.3.*
 
 Tabla 1.3. Verificación de la LCK.
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/1ca98c11c05dbbf21a855fe3821b6e2f0325db56/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM%20(1).jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/ebe1d78ec9ae3bb1322fa5d14d666324503fc82e/WhatsApp%20Image%202022-05-30%20at%209.01.06%20PM.jpeg)
+
 
 *4.5.5.-Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.*
