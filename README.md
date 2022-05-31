@@ -73,16 +73,15 @@ signo negativo. Anote los resultados en la tabla 1.2.*
 
 Tabla 1.2. Verificación de la LVK.
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/1ca98c11c05dbbf21a855fe3821b6e2f0325db56/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM%20(1).jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/ebe1d78ec9ae3bb1322fa5d14d666324503fc82e/WhatsApp%20Image%202022-05-30%20at%209.01.06%20PM.jpeg)
 
 *4.5.4.-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.*
 
-
 Tabla 1.3. Verificación de la LCK.
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/ebe1d78ec9ae3bb1322fa5d14d666324503fc82e/WhatsApp%20Image%202022-05-30%20at%209.01.06%20PM.jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/1ca98c11c05dbbf21a855fe3821b6e2f0325db56/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM%20(1).jpeg)
 
 *4.5.5.-Compare los resultados medidos con los valores obtenidos al analizar el circuito
 analíticamente y concluya al respecto.*
