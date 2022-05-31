@@ -82,7 +82,7 @@ del nodo. Anote los resultados en la tabla 1.3.*
 
 Tabla 1.3. Verificación de la LCK.
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/ebe1d78ec9ae3bb1322fa5d14d666324503fc82e/WhatsApp%20Image%202022-05-30%20at%209.01.06%20PM.jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/51ca10ba0ae619e4c81290b919a62b374aadaa07/WhatsApp%20Image%202022-05-30%20at%202.40.58%20PM.jpeg)
 
 
 *4.5.5.-Compare los resultados medidos con los valores obtenidos al analizar el circuito
