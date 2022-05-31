@@ -1,5 +1,13 @@
 # InformeLaboratorio
 
+***INTEGRANTES DEL GRUPO:***
+
+_Adrian Salazar
+
+_Juan Hurtado
+
+_Martin Vaca
+
 ***1.-OBJETIVOS***
 
 I)Conocer la aplicación la ley de voltaje de Kirchhoff 
