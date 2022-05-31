@@ -61,7 +61,7 @@ misma.
 *4.5.2.-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.**
 
-![](https://github.com/smvaca2/InformeLaboratorio/blob/f5e2af5c3058c99de0478a6d5be46b9d5eb0d8ef/WhatsApp%20Image%202022-05-30%20at%2011.20.59%20PM.jpeg)
+![](https://github.com/smvaca2/InformeLaboratorio/blob/2da7e94665a30ce4ded8e18fea6c993623b0b165/WhatsApp%20Image%202022-05-30%20at%202.40.57%20PM.jpeg)
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
