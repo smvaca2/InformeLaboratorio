@@ -92,6 +92,8 @@ La práctica, medida y calculo de los valores serían exactos, ya que al ser rea
 
 ***5.-VIDEO***
 
+https://youtu.be/LfEj13MqB5Y
+
 ***6.-CONCLUSIONES***
 
 Mediante la realización del informe se pudo conocer la ley de voltaje de Kirchhoff para de manera correcta usar los instrumentos de electricidad y electrónica. 
